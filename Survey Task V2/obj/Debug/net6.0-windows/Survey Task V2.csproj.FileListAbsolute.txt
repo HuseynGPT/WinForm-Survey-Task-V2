@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\bin\Debug\net6.0-windows\Survey Task V2.exe
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\bin\Debug\net6.0-windows\Survey Task V2.deps.json
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\bin\Debug\net6.0-windows\Survey Task V2.runtimeconfig.json
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\bin\Debug\net6.0-windows\Survey Task V2.dll
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\bin\Debug\net6.0-windows\Survey Task V2.pdb
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey_Task_V2.Form1.resources
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey_Task_V2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.dll
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\refint\Survey Task V2.dll
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.pdb
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\ref\Survey Task V2.dll
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Survey Task V2\Survey Task V2\obj\Debug\net6.0-windows\Survey Task V2.csproj.CopyComplete

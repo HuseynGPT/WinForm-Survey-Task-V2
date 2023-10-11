@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6PDStBPbVn+EtkK8Pyj41mTH4cjKlI1KF5UY7wJNB+6cB2/xEMm+1jn3EcnEzC1i49s74aYqPFaHAlHp1KZMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Survey Task V2\\Survey Task V2\\Survey Task V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
